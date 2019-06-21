@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arka.jpg.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-hdpi\\arka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\res\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+    }
+]

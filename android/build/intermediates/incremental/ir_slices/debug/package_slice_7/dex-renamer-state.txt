@@ -1,0 +1,4 @@
+#Mon May 27 15:25:57 GMT+02:00 2019
+base.0=C\:\\Users\\Sp\\Desktop\\DamlaOyun\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
